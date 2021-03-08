@@ -28,3 +28,10 @@ function peek() {
     if (!stopTime) peek();
   }, time);
 }
+
+function startGame() {
+  scoreBoard.textContent = 0;
+  stopTime = false;
+  peek();
+  setTimeout(() => (stopTIme = true), 2000);
+}
