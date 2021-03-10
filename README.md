@@ -1,7 +1,7 @@
 ## whack-A-Mole-Game
 Wes Bos- js30
 
-###### My own version 
+> My own version 
 
 [See- live-Demo](https://cleverttech.github.io/whack-A-Mole/)
 
